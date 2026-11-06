@@ -1,4 +1,4 @@
 # Notatka zespolu
 
-Haslo dnia: JABLKO
+Haslo dnia: GRUSZKA
 Status: gotowi do konfliktu
