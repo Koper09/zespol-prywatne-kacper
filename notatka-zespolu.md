@@ -1,5 +1,4 @@
 # Notatka zespolu
 
 Haslo dnia: JABLKO
-Status: start
-Autor zmiany A: koper09
+Status: gotowi do konfliktu
